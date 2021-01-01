@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"gitson"
 	"os"
+
+	"gitson"
 )
 
 func main() {
